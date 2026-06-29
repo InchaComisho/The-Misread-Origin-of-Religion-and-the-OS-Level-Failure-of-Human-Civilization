@@ -437,6 +437,11 @@ This is also an experiment in a new model of co-creation between humans and AI.
 
 ## License
 
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
 **Fully Open**
 
 This document is an open resource for civilizational theory, religious origin theory, myth analysis, Natural Complementary Science, Artificial Wisdom, education, research, and technical discussion. It may be freely referenced, shared, adapted, and reused.
