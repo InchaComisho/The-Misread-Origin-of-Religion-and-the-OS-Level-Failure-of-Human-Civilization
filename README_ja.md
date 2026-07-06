@@ -2,6 +2,8 @@
 
 **言語 / Language:** 日本語 | [English Version](README.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## The Misread Origin of Religion and the OS-Level Failure of Human Civilization
 
 **二元論による文明崩壊モデルと、文明回復への提案**
